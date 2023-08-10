@@ -1,0 +1,15 @@
+C:\codigos\projetos C#\Leitor_de_Contratos\Leitor_de_Contratos\bin\Debug\net7.0\Leitor_de_Contratos.exe
+C:\codigos\projetos C#\Leitor_de_Contratos\Leitor_de_Contratos\bin\Debug\net7.0\Leitor_de_Contratos.deps.json
+C:\codigos\projetos C#\Leitor_de_Contratos\Leitor_de_Contratos\bin\Debug\net7.0\Leitor_de_Contratos.runtimeconfig.json
+C:\codigos\projetos C#\Leitor_de_Contratos\Leitor_de_Contratos\bin\Debug\net7.0\Leitor_de_Contratos.dll
+C:\codigos\projetos C#\Leitor_de_Contratos\Leitor_de_Contratos\bin\Debug\net7.0\Leitor_de_Contratos.pdb
+C:\codigos\projetos C#\Leitor_de_Contratos\Leitor_de_Contratos\obj\Debug\net7.0\Leitor_de_Contratos.csproj.AssemblyReference.cache
+C:\codigos\projetos C#\Leitor_de_Contratos\Leitor_de_Contratos\obj\Debug\net7.0\Leitor_de_Contratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos\projetos C#\Leitor_de_Contratos\Leitor_de_Contratos\obj\Debug\net7.0\Leitor_de_Contratos.AssemblyInfoInputs.cache
+C:\codigos\projetos C#\Leitor_de_Contratos\Leitor_de_Contratos\obj\Debug\net7.0\Leitor_de_Contratos.AssemblyInfo.cs
+C:\codigos\projetos C#\Leitor_de_Contratos\Leitor_de_Contratos\obj\Debug\net7.0\Leitor_de_Contratos.csproj.CoreCompileInputs.cache
+C:\codigos\projetos C#\Leitor_de_Contratos\Leitor_de_Contratos\obj\Debug\net7.0\Leitor_de_Contratos.dll
+C:\codigos\projetos C#\Leitor_de_Contratos\Leitor_de_Contratos\obj\Debug\net7.0\refint\Leitor_de_Contratos.dll
+C:\codigos\projetos C#\Leitor_de_Contratos\Leitor_de_Contratos\obj\Debug\net7.0\Leitor_de_Contratos.pdb
+C:\codigos\projetos C#\Leitor_de_Contratos\Leitor_de_Contratos\obj\Debug\net7.0\Leitor_de_Contratos.genruntimeconfig.cache
+C:\codigos\projetos C#\Leitor_de_Contratos\Leitor_de_Contratos\obj\Debug\net7.0\ref\Leitor_de_Contratos.dll
